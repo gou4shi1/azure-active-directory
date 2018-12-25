@@ -1,6 +1,6 @@
 Package.describe({
     summary: 'Azure Active Directory OAuth flow',
-    version: '1.0.6',
+    version: '1.0.7',
     name: 'gou4shi1:azure-active-directory',
     git: 'https://github.com/gou4shi1/azure-active-directory',
 });
